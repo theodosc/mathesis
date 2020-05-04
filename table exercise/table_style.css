@@ -1,0 +1,21 @@
+table{
+    border:1px green double;
+    padding: .1em;
+    text-align: left;
+    font-size: 1.2em;
+}
+
+table th{
+    border: 1px solid green;
+    color:white;
+    background-color: green;
+}
+table td{
+    border: 1px solid rgba(0,128,0,0.6);
+    color: black;
+
+}
+.vathmos{
+    text-align:right;
+    background-color: lightblue;
+}
